@@ -4,13 +4,13 @@ This is a repository containing a template for a code of conduct for robot comba
 
 If your event does not have a code of conduct, consider using this template as a starting point.
 
-The template can be found in code-of-conduct.md.
+The template can be found in [code-of-conduct.md](https://github.com/IainIsCreative/robot-combat-code-of-conduct/blob/master/code-of-conduct.md).
 
 ## Contributing
 
-Contributions on improving and adding to the template is welcome. Please read contributing.md before commiting to making any changes.
+Contributions on improving and adding to the template is welcome. Please read [contributing.md](https://github.com/IainIsCreative/robot-combat-code-of-conduct/blob/master/contributing.md) before commiting to making any changes.
 
 ## License
 
-This project is released under the Creative Commons BY 4.0 License.
+This project is released under the [Creative Commons BY 4.0](https://github.com/IainIsCreative/robot-combat-code-of-conduct/blob/master/license.md) License.
 

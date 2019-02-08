@@ -4,6 +4,8 @@ As organisers and helpers of this event, and in the general interest of the robo
 
 All teams, persons, workers, volunteers and staff must adhere to the code of conduct in an effort to make this event as safe and welcoming as possible.
 
+By participating at this event, you abide by these terms.
+
 ### Conduct in regards to Humans
 
 - **Be welcome and courteous to each other.** We aim to be welcoming to combatants, both new to the sport and experienced, and wish them to participate in future events as well.
@@ -64,7 +66,7 @@ Report suspected violations of this Code of Conduct to:
 
 ### Attirbution
 
-This Code of Conduct is derived from the [Robot Combat Code of Conduct](https://github.com/IainIsCreative/robot-combat-code-of-conduct), version 1.0, under the Creative Commons BY 4.0 License.
+This Code of Conduct is derived from the [Robot Combat Code of Conduct](https://github.com/IainIsCreative/robot-combat-code-of-conduct), version 1.0, under the [Creative Commons BY 4.0 License](https://github.com/IainIsCreative/robot-combat-code-of-conduct/blob/master/contributing.md).
 
 
 
